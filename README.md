@@ -5,8 +5,11 @@ Portfolio das Matérias
 
 <h5>C e C++ são as mesmas linguagens, o que muda é a extensão do arquivo, por exemplo:</h5>
 
-arquivo<strong>.c</strong> -> C // arquivo<strong>.cpp</strong> -> C++
+arquivo<strong>.c</strong> -> C (No linux) // arquivo<strong>.cpp</strong> -> C++ (no Windows)
 
-<p>As vezes esqueço do pen-drive/backup em casa</p>
-
-<p>Novo repositorio, para fazer organização</p>
+<h6>Programas</h6>
+<ul>C e C++</ul>
+<li>Dev-C++</li>
+<li>Code-Blocks</li>
+<li>Android Studio</li>
+<li>Visual Studio</li>
