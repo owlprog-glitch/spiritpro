@@ -1,8 +1,8 @@
+/* ex1 */
 create database hospitalclinical;
 use hospitalclinical;
 select * from paciente;
 
-/* ex1 */
 create table paciente (
 matricula int primary key,
 nome varchar(50),
@@ -62,6 +62,13 @@ select nome, idade from paciente where idade in (10, 15, 20, 25, 30, 35, 40);
 /* ex 13 */
 
 delete from paciente;
+
+/* ex 13 outra versão */
+
+delete from paciente where matricula=01;
+delete from paciente where matricula=02;
+delete from paciente where matricula=03;
+delete from paciente where matricula=04;
 
 /* ex 14 */
 
