@@ -33,3 +33,33 @@ select modelo from automovel;
 select valor / 0.1 from automovel where marca='GM';
 
 /* ex 5 */
+
+select max(valor) as marca from automovel where valor;
+
+/* ex 6 */
+
+update automovel set km=100000, valor=18000 where cod_veiculo=3;
+
+/* ex 7 */
+
+select count(20) from automovel where ano>2010 order by marca;
+
+/* ex 8 */
+
+select sum(km) as marca from automovel where km=20000<>30000 and ano>2010 order by sum(130000);
+
+/* ex 9 */
+
+select marca, modelo from automovel where ano in (2001, 2005, 2007, 2009, 2011, 2013, 2015) order by modelo DESC;
+
+/* ex 10 */
+
+delete from automovel where ano>2010;
+
+/* ex 11 */
+
+delete from automovel;
+
+/* ex 12 */
+
+drop database veiculos;
