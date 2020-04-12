@@ -1,8 +1,7 @@
 create database veiculos;
 use veiculos;
-drop table automovel;
 
-/*ex 1*/
+/* ex 1 */
 create table automovel (
 cod_veiculo int primary key,
 modelo varchar(30),
@@ -11,8 +10,6 @@ km float,
 valor float,
 marca char(30)
 );
-
-select * from automovel;
 
 insert into automovel values (1, 'Gol', 2010, 68000, 22000, 'VW'),
 (2, 'Palio', 2014, 9000, 34000, 'FIAT'),
@@ -26,7 +23,7 @@ select avg(valor) from automovel where valor;
 
 /* ex 3 */
 
-select modelo from automovel;
+select modelo, marca, km, ano>2010 from automovel where marca like '%a%' and km=null order by ano;
 
 /* ex 4 */
 
