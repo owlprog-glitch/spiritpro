@@ -6,6 +6,8 @@ Algumas explicações e arquivos foram feitas em 2 versões.
 <table>
   <tr>
     <th>int numero, quantidade;</th>
+  </tr>
+    <tr>
     <th>double nreal, i;</th>
   </tr>
 </table>
@@ -14,6 +16,8 @@ Algumas explicações e arquivos foram feitas em 2 versões.
 <table>
   <tr>
 <th>int numero;</th>
-<th>int quantidade;</th>
   </tr>
+<tr>
+<th>int quantidade;</th>
+</tr>
 </table>
