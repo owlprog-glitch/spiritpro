@@ -1,1 +1,2 @@
-Algumas explicações foram feitas com outro professor
+Algumas explicações e arquivos foram feitas em 2 versões.
+
