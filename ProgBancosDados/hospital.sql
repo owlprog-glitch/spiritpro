@@ -1,9 +1,5 @@
 create database hospital;
 use hospital;
-select * from paciente;
-select * from medico;
-drop database hospital;
-drop table paciente;
 
 /* ex 1 */
 
