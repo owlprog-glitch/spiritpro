@@ -30,7 +30,6 @@ insert into paciente values (4, 'Ricardo', 'Rua C', 6, 12007000, 40, 3);
 insert into paciente values (5, 'Heleno',  'Rua Y', 21, 60004560, 35, 1);
 
 /* registro medico */
-
 insert into medico values (1, 'Valter', 'Neurologia');
 insert into medico values (2, 'Charles', 'Psicologia');
 insert into medico values (3, 'Leonard', 'Psiquiatria');
