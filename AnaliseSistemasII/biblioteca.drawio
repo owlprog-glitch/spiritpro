@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T22:44:50.118Z" agent="5.0 (Windows)" version="13.6.6" etag="ZSFKMtDkqT4F9JTafSvc" type="github"><diagram id="F1nJZ8xa4qfeSJ3izPJ8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-02T23:17:00.310Z" agent="5.0 (Windows)" etag="nFqRPkCY1tiWX6aRp-LQ" version="13.6.6" type="github">
+  <diagram id="F1nJZ8xa4qfeSJ3izPJ8" name="Page-1">
+    <mxGraphModel dx="1067" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="580" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-1" value="&lt;div&gt;Funcionário &lt;br&gt;&lt;/div&gt;&lt;div&gt;da Biblioteca&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="59" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-2" value="Alunos" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="739" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-3" value="Empréstimos de livros" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="120" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-4" value="" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1DngpCo_Q4WJifXLkMRw-1" target="1DngpCo_Q4WJifXLkMRw-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="220" as="sourcePoint" />
+            <mxPoint x="149" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-5" value="Cadastramento de livros novos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177" y="270" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1DngpCo_Q4WJifXLkMRw-5" target="1DngpCo_Q4WJifXLkMRw-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="129" y="230" as="sourcePoint" />
+            <mxPoint x="289" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-7" value="&lt;div&gt;Emitir Comprovante com data de devolução&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="210" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1DngpCo_Q4WJifXLkMRw-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-10" value="&lt;div&gt;Escolha do livro&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="340" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-11" value="Escolher outro livro ou cancelar o empréstimo " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="485" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1DngpCo_Q4WJifXLkMRw-11" target="1DngpCo_Q4WJifXLkMRw-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="559" y="490" as="sourcePoint" />
+            <mxPoint x="729" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-13" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1DngpCo_Q4WJifXLkMRw-2" target="1DngpCo_Q4WJifXLkMRw-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="519" y="450" as="sourcePoint" />
+            <mxPoint x="569" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-16" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1DngpCo_Q4WJifXLkMRw-7" target="1DngpCo_Q4WJifXLkMRw-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="359" y="180" as="sourcePoint" />
+            <mxPoint x="519" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DngpCo_Q4WJifXLkMRw-19" value="Sistema de Biblioteca" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="80" width="136" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
