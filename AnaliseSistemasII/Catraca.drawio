@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T22:19:48.468Z" agent="5.0 (Windows)" etag="prvViI54Yc5xKbBD7XxV" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T22:29:41.716Z" agent="5.0 (Windows)" etag="ov0ZN0gsE9GIR9Caku3S" version="13.6.6" type="github">
   <diagram id="vrw9sYubxmDZEDmXsa27" name="Page-1">
     <mxGraphModel dx="440" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VmnwJP8SEG0VSlNGqGaP-1" value="&lt;div&gt;Sistema Acadêmico&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="70" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VmnwJP8SEG0VSlNGqGaP-2" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VmnwJP8SEG0VSlNGqGaP-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10" width="150" height="80" as="geometry" />
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-3" value="&lt;div&gt;Enviar dados&lt;/div&gt;&lt;div&gt;dos Alunos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VmnwJP8SEG0VSlNGqGaP-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="150" height="80" as="geometry" />
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-4" value="Atualizar dados dos Alunos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="120" width="150" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="VmnwJP8SEG0VSlNGqGaP-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="150" height="80" as="geometry" />
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-5" value="&lt;div&gt;Alterar status do aluno&lt;/div&gt;&lt;div&gt;(bloquear/desbloquear)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VmnwJP8SEG0VSlNGqGaP-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="330" width="150" height="80" as="geometry" />
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-6" value="&lt;div&gt;Enviar relatório&lt;/div&gt;&lt;div&gt;entrada e saída&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VmnwJP8SEG0VSlNGqGaP-7" value="" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VmnwJP8SEG0VSlNGqGaP-1" target="VmnwJP8SEG0VSlNGqGaP-3">
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-7" value="" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmnwJP8SEG0VSlNGqGaP-1" target="VmnwJP8SEG0VSlNGqGaP-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="100" as="sourcePoint" />
             <mxPoint x="160" y="50" as="targetPoint" />
@@ -36,14 +36,35 @@
         </mxCell>
         <mxCell id="VmnwJP8SEG0VSlNGqGaP-10" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VmnwJP8SEG0VSlNGqGaP-2" target="VmnwJP8SEG0VSlNGqGaP-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="315" as="sourcePoint" />
-            <mxPoint x="170" y="265" as="targetPoint" />
+            <mxPoint x="120" y="345" as="sourcePoint" />
+            <mxPoint x="170" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VmnwJP8SEG0VSlNGqGaP-11" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VmnwJP8SEG0VSlNGqGaP-2" target="VmnwJP8SEG0VSlNGqGaP-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="320" as="sourcePoint" />
-            <mxPoint x="120" y="270" as="targetPoint" />
+            <mxPoint x="70" y="350" as="sourcePoint" />
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-12" value="Fabricante do Cartão" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-13" value="Catraca" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-14" value="&lt;div&gt;Enviar dados dos cartões novos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-15" value="&lt;div&gt;Validar entrada/saída&lt;/div&gt;&lt;div&gt;dos alunos&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-16" value="Registrar Entrada/Saída dos alunos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="380" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-18" value="&amp;lt;&amp;lt; Extends &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VmnwJP8SEG0VSlNGqGaP-16" target="VmnwJP8SEG0VSlNGqGaP-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="560" y="340" as="sourcePoint" />
+            <mxPoint x="720" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
