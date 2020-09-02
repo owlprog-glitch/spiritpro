@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T22:29:41.716Z" agent="5.0 (Windows)" etag="ov0ZN0gsE9GIR9Caku3S" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T22:33:29.646Z" agent="5.0 (Windows)" etag="uXsuFx5NFKvdg3b_yhiX" version="13.6.6" type="github">
   <diagram id="vrw9sYubxmDZEDmXsa27" name="Page-1">
-    <mxGraphModel dx="440" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="962" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-20" width="560" height="540" as="geometry" />
+        </mxCell>
         <mxCell id="VmnwJP8SEG0VSlNGqGaP-1" value="&lt;div&gt;Sistema Acadêmico&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="30" height="60" as="geometry" />
         </mxCell>
@@ -53,7 +56,7 @@
           <mxGeometry x="740" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VmnwJP8SEG0VSlNGqGaP-14" value="&lt;div&gt;Enviar dados dos cartões novos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="50" width="140" height="80" as="geometry" />
+          <mxGeometry x="500" y="20" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VmnwJP8SEG0VSlNGqGaP-15" value="&lt;div&gt;Validar entrada/saída&lt;/div&gt;&lt;div&gt;dos alunos&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="140" height="80" as="geometry" />
@@ -66,6 +69,21 @@
             <mxPoint x="560" y="340" as="sourcePoint" />
             <mxPoint x="720" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-21" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VmnwJP8SEG0VSlNGqGaP-14" target="VmnwJP8SEG0VSlNGqGaP-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="100" as="sourcePoint" />
+            <mxPoint x="700" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-23" value="" style="endArrow=none;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VmnwJP8SEG0VSlNGqGaP-15" target="VmnwJP8SEG0VSlNGqGaP-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="360" as="sourcePoint" />
+            <mxPoint x="730" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmnwJP8SEG0VSlNGqGaP-24" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Sistemas de Catraca&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-10" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
