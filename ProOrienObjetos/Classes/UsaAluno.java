@@ -32,3 +32,4 @@ public class UsaAluno {
     else
       System.out.println("A media do objeto A é igual");
     
+  }
