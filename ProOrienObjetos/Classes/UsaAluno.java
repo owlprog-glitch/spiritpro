@@ -30,5 +30,5 @@ public class UsaAluno {
     else if (b.media>a.media)
       System.out.println("A media do objeto A é menor");
     else
-      System.out.println("A media do objeto A é igual";
+      System.out.println("A media do objeto A é igual");
     
