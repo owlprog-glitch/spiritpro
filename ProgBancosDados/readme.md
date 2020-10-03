@@ -1,4 +1,4 @@
-<title>Programas:</title>
+<strong>Programas:</strong>
 <p>MySQL Workbench</p>
 <h5>Server</p>
 
