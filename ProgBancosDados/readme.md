@@ -1,7 +1,7 @@
 <strong>Programas:</strong>
 <p>MySQL Workbench</p>
-<h5>Server</p>
+<h5>Server</h5>
 
 <p>XAMPP</p>
-
-<p>Os exercicios são os nomes do arquivos</p>
+<p>WAMP</p>
+<p>SAMBA - Linux</p>
