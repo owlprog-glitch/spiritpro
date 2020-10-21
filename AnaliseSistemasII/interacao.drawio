@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T23:45:22.975Z" agent="5.0 (Windows)" etag="OtkEelz0enJc-Hm-eKwq" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T23:58:05.465Z" agent="5.0 (Windows)" etag="TK_nW5mg-AEm7qJIyf1d" version="13.8.1" type="github">
   <diagram id="th-3_0Q0DmBlsHd-f6A7" name="Page-1">
     <mxGraphModel dx="760" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,6 +12,19 @@
         </mxCell>
         <mxCell id="2yKbzrXuhydSA4W2Bl---3" value="emissão de comprovante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="139.38" width="220" height="41.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2yKbzrXuhydSA4W2Bl---8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2yKbzrXuhydSA4W2Bl---9" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="2yKbzrXuhydSA4W2Bl---8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2yKbzrXuhydSA4W2Bl---10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="2yKbzrXuhydSA4W2Bl---8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
