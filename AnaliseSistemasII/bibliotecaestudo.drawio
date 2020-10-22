@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T23:38:56.649Z" agent="5.0 (Windows)" etag="S78qkbFw-lWcEyRYlYvk" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T23:41:45.031Z" agent="5.0 (Windows)" etag="R4qdJlFDuZ2_btKglsj5" version="13.8.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="834" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
               <mxPoint x="280" y="260" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J5ACFkRA8v3-ju2rpxKX-13" value="validarEmprestimo()" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.286;exitY=0.564;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J5ACFkRA8v3-ju2rpxKX-5" target="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="180" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
