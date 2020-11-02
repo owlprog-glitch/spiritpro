@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T21:52:20.451Z" agent="5.0 (Windows)" etag="fAEU8BzbZQ-qaatx6s1h" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T21:54:42.323Z" agent="5.0 (Windows)" etag="wr1yQ2OVcmuVuElLTvYi" version="13.8.8" type="github">
   <diagram id="8-qFMdN2M5BpMNW03hwC" name="Page-1">
     <mxGraphModel dx="900" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RcH9cWTwy_EmR8gQbs1w-36" value="Devolucaocommulta(caso passe da data)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.2;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RcH9cWTwy_EmR8gQbs1w-35" target="YvCRl8Iy_vgOIxh5A2Na-1">
+        <mxCell id="RcH9cWTwy_EmR8gQbs1w-36" value="Devolucaocommulta(caso passe da data)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.2;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="367" as="sourcePoint" />
-            <mxPoint x="260" y="370" as="targetPoint" />
+            <mxPoint x="467" y="385.01" as="sourcePoint" />
+            <mxPoint x="89.5" y="385.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-32" value="emissaoNFEntrega()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="RcH9cWTwy_EmR8gQbs1w-7">
@@ -62,10 +62,10 @@
           <mxGeometry x="80" y="80" width="20" height="340" as="geometry" />
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="YvCRl8Iy_vgOIxh5A2Na-1">
-          <mxGeometry x="5" y="90" width="10" height="220" as="geometry" />
+          <mxGeometry x="5" y="90" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-1" value=":sistemaLivros" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="80" width="110" height="300" as="geometry" />
+          <mxGeometry x="250" y="80" width="110" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RcH9cWTwy_EmR8gQbs1w-1">
           <mxGeometry x="50" y="90" width="10" height="40" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="50" y="220" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-7" value=":Livros" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="80" width="100" height="330" as="geometry" />
+          <mxGeometry x="420" y="70" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RcH9cWTwy_EmR8gQbs1w-7">
           <mxGeometry x="45" y="90" width="10" height="40" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="45" y="220" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RcH9cWTwy_EmR8gQbs1w-7">
-          <mxGeometry x="45" y="290" width="10" height="30" as="geometry" />
+          <mxGeometry x="45" y="300" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RcH9cWTwy_EmR8gQbs1w-12" value=":Emprestimo" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="80" width="100" height="310" as="geometry" />
