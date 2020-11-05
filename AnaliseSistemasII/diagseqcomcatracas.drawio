@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T16:31:13.790Z" agent="5.0 (Windows)" etag="AcoVvvmQq7PyoPNPqhtc" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T16:34:24.218Z" agent="5.0 (Windows)" etag="Gm_HidjWIxfXxP-OEuJo" version="13.9.1" type="github">
   <diagram id="sJmJqWJVJdlw4mypusqy" name="Page-1">
     <mxGraphModel dx="1267" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jt-R9U7Ucblp3WmaqdIi-6" value="2: Atualiza os dados dos alunos" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="89.5" y="199" as="sourcePoint" />
+            <mxPoint x="325" y="199" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-14" value="4: Emite dados de bloqueio e desbloqueio" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.51;exitY=0.402;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-8" target="Jt-R9U7Ucblp3WmaqdIi-13" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="585" y="210" as="sourcePoint" />
@@ -37,15 +46,6 @@
         </mxCell>
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Jt-R9U7Ucblp3WmaqdIi-1" vertex="1">
           <mxGeometry x="5" y="90" width="10" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="Jt-R9U7Ucblp3WmaqdIi-6" value="2: Atualiza os dados dos alunos" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="89.5" y="199" as="sourcePoint" />
-            <mxPoint x="325" y="199" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="199" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-8" value="&lt;div&gt;:Cartao&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="40" width="100" height="430" as="geometry" />
@@ -83,6 +83,18 @@
               <mxPoint x="850" y="290" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gciB_Id87dPa8qDstbcZ-3" value="6: Retorna a liberação por relátorio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-8" target="gciB_Id87dPa8qDstbcZ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="330" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gciB_Id87dPa8qDstbcZ-4" value="7: Emite o relatório de registros" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="Jt-R9U7Ucblp3WmaqdIi-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324.5" y="300" as="sourcePoint" />
+            <mxPoint x="100" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
