@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T01:15:20.040Z" agent="5.0 (Windows)" etag="a4n4cVX49IQknJ1KptdL" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T01:24:40.779Z" agent="5.0 (Windows)" etag="5Nj70ytqf7dl04reqfom" version="13.8.8" type="github">
   <diagram id="sJmJqWJVJdlw4mypusqy" name="Page-1">
     <mxGraphModel dx="1267" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Jt-R9U7Ucblp3WmaqdIi-14" value="3: Envia um codigo do aluno (RA)" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.51;exitY=0.402;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-8" target="Jt-R9U7Ucblp3WmaqdIi-13">
+        <mxCell id="Jt-R9U7Ucblp3WmaqdIi-14" value="4: Emite dados de bloqueio e desbloqueio" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.51;exitY=0.402;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-8" target="Jt-R9U7Ucblp3WmaqdIi-13">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="585" y="210" as="sourcePoint" />
             <mxPoint x="721.5" y="210" as="targetPoint" />
