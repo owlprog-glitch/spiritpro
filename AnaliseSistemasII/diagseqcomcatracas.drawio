@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T16:34:24.218Z" agent="5.0 (Windows)" etag="Gm_HidjWIxfXxP-OEuJo" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T16:38:08.715Z" agent="5.0 (Windows)" etag="eDRilUA961xh6WtKqtQw" version="13.9.1" type="github">
   <diagram id="sJmJqWJVJdlw4mypusqy" name="Page-1">
     <mxGraphModel dx="1267" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gciB_Id87dPa8qDstbcZ-3" value="6: Retorna a liberação por relátorio" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-8" target="gciB_Id87dPa8qDstbcZ-2">
+        <mxCell id="gciB_Id87dPa8qDstbcZ-3" value="6: Retorna a liberação por relatório" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-8" target="gciB_Id87dPa8qDstbcZ-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="330" as="sourcePoint" />
             <mxPoint x="460" y="330" as="targetPoint" />
