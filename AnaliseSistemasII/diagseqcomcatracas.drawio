@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T16:29:07.117Z" agent="5.0 (Windows)" etag="5oaX2jrGUV_nIcvvJlKJ" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T16:31:13.790Z" agent="5.0 (Windows)" etag="AcoVvvmQq7PyoPNPqhtc" version="13.9.1" type="github">
   <diagram id="sJmJqWJVJdlw4mypusqy" name="Page-1">
     <mxGraphModel dx="1267" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,6 +29,9 @@
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Jt-R9U7Ucblp3WmaqdIi-3" vertex="1">
           <mxGeometry x="45" y="150" width="10" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="gciB_Id87dPa8qDstbcZ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Jt-R9U7Ucblp3WmaqdIi-3">
+          <mxGeometry x="45" y="250" width="10" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-1" value="Funcionário" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="20" height="440" as="geometry" />
         </mxCell>
@@ -54,7 +57,7 @@
           <mxGeometry x="45" y="150" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Jt-R9U7Ucblp3WmaqdIi-8" vertex="1">
-          <mxGeometry x="45" y="220" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="250" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-12" value="3: Envia um codigo do aluno (RA)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" target="Jt-R9U7Ucblp3WmaqdIi-8" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -71,13 +74,13 @@
         <mxCell id="Jt-R9U7Ucblp3WmaqdIi-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Jt-R9U7Ucblp3WmaqdIi-13" vertex="1">
           <mxGeometry x="45" y="150" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gciB_Id87dPa8qDstbcZ-1" value="5: Emite código de entrada e saída" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-15">
+        <mxCell id="gciB_Id87dPa8qDstbcZ-1" value="5: Emite código de entrada e saída" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="Jt-R9U7Ucblp3WmaqdIi-15" target="Jt-R9U7Ucblp3WmaqdIi-16">
           <mxGeometry x="0.4724" width="80" relative="1" as="geometry">
             <mxPoint x="820.5" y="218" as="sourcePoint" />
             <mxPoint x="570.5" y="268" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="861" y="218" />
-              <mxPoint x="861" y="268" />
+              <mxPoint x="850" y="218" />
+              <mxPoint x="850" y="290" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
