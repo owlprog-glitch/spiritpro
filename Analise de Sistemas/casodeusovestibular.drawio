@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T03:12:00.767Z" agent="5.0 (Windows)" etag="6_06UqI21HKPsAcsZ_Mu" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T03:13:01.330Z" agent="5.0 (Windows)" etag="Gh_PAnUxJlaUdUc7SI4o" version="13.10.6" type="github">
   <diagram id="AmF95eOuUOl-odB8TZgS" name="Base">
     <mxGraphModel dx="1936" dy="1233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -66,6 +66,11 @@
         <mxCell id="Jlk9EAa8DoOELK4E6xyT-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="BsyN5uTjvxiYQo5_l33H-1" source="pBJmVVVJRQS4sJVsDnPl-16" target="pBJmVVVJRQS4sJVsDnPl-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Jlk9EAa8DoOELK4E6xyT-4" value="&lt;div&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jlk9EAa8DoOELK4E6xyT-0">
+          <mxGeometry x="-0.4695" y="2" relative="1" as="geometry">
+            <mxPoint x="-18.52" y="-14.370000000000001" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pBJmVVVJRQS4sJVsDnPl-16" value="Imprime cartão-resposta" style="ellipse;whiteSpace=wrap;html=1;" parent="BsyN5uTjvxiYQo5_l33H-1" vertex="1">
           <mxGeometry x="585" y="159.75" width="90" height="60" as="geometry" />
         </mxCell>
@@ -107,10 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBJmVVVJRQS4sJVsDnPl-29" value="&lt;div&gt;Leitura do cartão-resposta&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="BsyN5uTjvxiYQo5_l33H-1" vertex="1">
-          <mxGeometry x="430" y="170" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Jlk9EAa8DoOELK4E6xyT-1" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="BsyN5uTjvxiYQo5_l33H-1">
-          <mxGeometry x="510" y="179.75" width="90" height="20" as="geometry" />
+          <mxGeometry x="430" y="159.75" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
