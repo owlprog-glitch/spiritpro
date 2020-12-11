@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T03:18:02.671Z" agent="5.0 (Windows)" etag="3MyShIvFsUmto5ymEGS6" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T03:20:26.625Z" agent="5.0 (Windows)" etag="7rmM0iRzIcp_zv96cZVB" version="13.10.6" type="github">
   <diagram id="AmF95eOuUOl-odB8TZgS" name="Base">
-    <mxGraphModel dx="2703" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1642" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="BsyN5uTjvxiYQo5_l33H-0" />
         <mxCell id="BsyN5uTjvxiYQo5_l33H-1" parent="BsyN5uTjvxiYQo5_l33H-0" />
@@ -95,9 +95,9 @@
         <mxCell id="pBJmVVVJRQS4sJVsDnPl-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="BsyN5uTjvxiYQo5_l33H-1" source="pBJmVVVJRQS4sJVsDnPl-20" target="pBJmVVVJRQS4sJVsDnPl-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pBJmVVVJRQS4sJVsDnPl-27" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pBJmVVVJRQS4sJVsDnPl-26" vertex="1" connectable="0">
+        <mxCell id="pBJmVVVJRQS4sJVsDnPl-27" value="&lt;div&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pBJmVVVJRQS4sJVsDnPl-26" vertex="1" connectable="0">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
-            <mxPoint x="10" y="-11" as="offset" />
+            <mxPoint x="9.19" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBJmVVVJRQS4sJVsDnPl-20" value="Recebimento do gabarito" style="ellipse;whiteSpace=wrap;html=1;" parent="BsyN5uTjvxiYQo5_l33H-1" vertex="1">
@@ -107,7 +107,7 @@
           <mxGeometry x="492" y="240" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pBJmVVVJRQS4sJVsDnPl-25" value="Gabarito que deve ser lançado no sistema" style="ellipse;whiteSpace=wrap;html=1;" parent="BsyN5uTjvxiYQo5_l33H-1" vertex="1">
-          <mxGeometry x="310" y="120" width="95" height="60" as="geometry" />
+          <mxGeometry x="320" y="120" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pBJmVVVJRQS4sJVsDnPl-29" value="&lt;div&gt;Leitura do cartão-resposta&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="BsyN5uTjvxiYQo5_l33H-1" vertex="1">
           <mxGeometry x="420" y="159.75" width="90" height="60" as="geometry" />
