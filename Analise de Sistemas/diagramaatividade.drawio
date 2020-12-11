@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T22:12:56.900Z" agent="5.0 (Windows)" version="14.0.1" etag="iSVNYZadApI8Jsyi2aIA" type="github"><diagram id="FRgDD6im-TBAndwe_46G">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-11T23:30:13.171Z" agent="5.0 (Windows)" etag="UVnYKehekxcEWjzgqWFu" version="14.0.1" type="github">
+  <diagram id="FRgDD6im-TBAndwe_46G" name="Página-1">
+    <mxGraphModel dx="994" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="potWYuQcWe-VAfWoS6mm-6" value="Equipe de Digitadores" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="200" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="potWYuQcWe-VAfWoS6mm-5" value="Responsável pelo processo seletivo" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="potWYuQcWe-VAfWoS6mm-9" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="potWYuQcWe-VAfWoS6mm-5">
+          <mxGeometry x="80" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="potWYuQcWe-VAfWoS6mm-8" value="CPD" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="200" height="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
