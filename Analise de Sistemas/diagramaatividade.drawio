@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T00:11:59.035Z" agent="5.0 (Windows)" etag="gXWLI9ZJWCb22PdEF3Dt" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T00:15:23.048Z" agent="5.0 (Windows)" etag="0msU8GbD1EWhZHo02jui" version="14.0.1" type="github">
   <diagram id="FRgDD6im-TBAndwe_46G" name="Página-1">
     <mxGraphModel dx="1008" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="30" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="potWYuQcWe-VAfWoS6mm-8" value="CPD" style="swimlane;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="630" y="40" width="310" height="710" as="geometry" />
+          <mxGeometry x="630" y="40" width="290" height="710" as="geometry" />
         </mxCell>
         <mxCell id="potWYuQcWe-VAfWoS6mm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="potWYuQcWe-VAfWoS6mm-8" source="potWYuQcWe-VAfWoS6mm-39" target="potWYuQcWe-VAfWoS6mm-41">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="100" y="480" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="potWYuQcWe-VAfWoS6mm-53" value="Correção dos erros para que possam ser lidos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="potWYuQcWe-VAfWoS6mm-8">
-          <mxGeometry x="170" y="465" width="130" height="60" as="geometry" />
+          <mxGeometry x="170" y="465" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="potWYuQcWe-VAfWoS6mm-55" value="[Caso não]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="potWYuQcWe-VAfWoS6mm-8">
           <mxGeometry x="100" y="510" width="80" height="20" as="geometry" />
